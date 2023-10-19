@@ -4,14 +4,14 @@
   <div align="center">
     <b><font size="5">OpenDataLab website</font></b>
     <sup>
-      <a href="https://opendatalab.com">
+      <a href="https://opendatalab.com/?source=R2l0aHVi">
         <i><font size="4">HOT</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <b><font size="5">OpenXLab platform</font></b>
     <sup>
-      <a href="https://openxlab.org.cn/datasets?lang=en-US">
+      <a href="https://openxlab.org.cn/datasets?source=R2l0aHVi">
         <i><font size="4">TRY IT OUT</font></i>
       </a>
     </sup>
@@ -53,4 +53,4 @@ This is an introduction to the dataset autonomous upload function [„Äêhelp doc„Ä
 
 If you have any questions or obstacles, please feel free to contact us <a href="mailto:OpenDataLab@pjlab.org.cn">OpenDataLab@pjlab.org.cn</a>. 
 
-[![](https://github.com/opendatalab/opendatalab-datasets/blob/main/%E9%A1%B6%E4%BC%9A%E9%A1%B6%E5%88%8A%E6%95%B0%E6%8D%AE%E9%9B%86/ECCV/img/create%20your%20dataset.png?raw=true)](https://opendatalab.com/create)
+[![](https://github.com/opendatalab/opendatalab-datasets/blob/main/%E9%A1%B6%E4%BC%9A%E9%A1%B6%E5%88%8A%E6%95%B0%E6%8D%AE%E9%9B%86/ECCV/img/create%20your%20dataset.png?raw=true)](https://opendatalab.com/create?source=R2l0aHVi)
