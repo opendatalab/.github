@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/opendatalab/opendatalab-datasets/blob/main/%E9%A1%B6%E4%BC%9A%E9%A1%B6%E5%88%8A%E6%95%B0%E6%8D%AE%E9%9B%86/ECCV/img/Datalab_Logo_2230x580.png?raw=true)" height="100"/>
+  <img src="https://github.com/opendatalab/opendatalab-datasets/blob/main/%E9%A1%B6%E4%BC%9A%E9%A1%B6%E5%88%8A%E6%95%B0%E6%8D%AE%E9%9B%86/ECCV/img/Datalab_Logo_2230x580.png?raw=true" height="100"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">OpenDataLab website</font></b>
