@@ -22,7 +22,7 @@
 
 **🔥🔥🔥OpenDataLab Provide ecology for high-quality datasets for community.** It provides:
 
-# 🌟Extensive open data resources for AI Modle
+# 🌟Extensive open data resources for AI Model
 ● High-speed and simple way to access open datasets  
 ● 7700+ Large scale and high-quality open datasets for large model  
 ● 1200+ Open datasets for Computer Vision\Large Model
