@@ -25,7 +25,7 @@
 # 🌟Extensive open data resources for AI Model
 ● High-speed and simple way to access open datasets  
 ● 7700+ Large scale and high-quality open datasets for large model  
-● 1200+ Open datasets for Computer Vision\Large Model
+● 1200+ Open datasets for Computer Vision
 <br>
 ● 200+ Open datasets by CVPR  
 ● Categorized datasets for hot topics  
