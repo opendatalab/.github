@@ -1,22 +1,21 @@
 <div align="center">
-  <img src="https://github.com/opendatalab/opendatalab-datasets/blob/main/%E9%A1%B6%E4%BC%9A%E9%A1%B6%E5%88%8A%E6%95%B0%E6%8D%AE%E9%9B%86/ECCV/img/Datalab_Logo_2230x580.png?raw=true" height="100"/>
-  <div>&nbsp;</div>
-  <div align="center">
-    <b><font size="5">OpenDataLab website</font></b>
-    <sup>
-      <a href="https://opendatalab.com/?source=R2l0aHVi">
-        <i><font size="4">HOT</font></i>
-      </a>
-    </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">OpenXLab platform</font></b>
-    <sup>
-      <a href="https://openxlab.org.cn/datasets?source=R2l0aHVi">
-        <i><font size="4">TRY IT OUT</font></i>
-      </a>
-    </sup>
-</div>
-<div>&nbsp;</div>
+<p style="text-align: center;">
+  <img src="https://github.com/opendatalab/opendatalab-datasets/blob/main/%E9%A1%B6%E4%BC%9A%E9%A1%B6%E5%88%8A%E6%95%B0%E6%8D%AE%E9%9B%86/ECCV/img/Datalab_Logo_2230x580.png?raw=true" height="100" style="display: block; margin-left: auto; margin-right: auto;">
+  <br>
+  <a href="https://opendatalab.com/">🏡 Homepage</a>
+</a>
+  <br>
+  <br>
+  <a href="https://github.com/opendatalab?tab=stars">
+  <img  alt="GitHub Stars" src="https://img.shields.io/github/stars/opendatalab?style=social" />
+  <a/>
+  <a href="https://cdn.vansin.top/internlm/mineru.jpg">
+  <img alt="WeChat Group"src="https://img.shields.io/badge/WeChatGroup-MinerU-green?logo=wechat"  />
+  </a>
+  <a href="https://discord.com/invite/AsQMhuMN">
+  <img alt="Discord Group"src="https://img.shields.io/badge/Discord-OpenDataLab-red?logo=Discord" />
+</a>
+</p>
 </div>
 
 **English**🌎|[简体中文](https://github.com/opendatalab/opendatalab-datasets/blob/main/introduction%20CN.md)🀄 
@@ -25,7 +24,7 @@
 
 ### Extensive open data resources
 ● High-speed and simple way to access open datasets  
-● Large scale open datasets resources  
+● 7700+ Large scale and high-quality open datasets for large model  
 ● 1200+ Open datasets for Computer Vision\Large Model
 <br>
 ● 200+ Open datasets by CVPR  
@@ -47,7 +46,7 @@ Check our [tutorials videos](https://www.youtube.com/watch?v=LjbRt7uddyw) (in Ch
 
 ---
 
-In September this year, we have upgraded and launched the function of authors uploading datasets independently. We hereby invite you to participate in using it to better promote your open source datasets, AI research results, etc., so that more people can access, obtain and use your dataset. 
+We have upgraded and launched the function of authors uploading datasets independently. We hereby invite you to participate in using it to better promote your open source datasets, AI research results, etc., so that more people can access, obtain and use your dataset. 
 
 This is an introduction to the dataset autonomous upload function [【help doc】](https://github.com/opendatalab/opendatalab-datasets/blob/main/help%20doc.md)，You can create and share your dataset according to our guidelines. 
 
