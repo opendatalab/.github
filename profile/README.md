@@ -23,6 +23,7 @@
 > 
 > WanJuan3.0 [Korean](https://opendatalab.com/OpenDataLab/WanJuan-Korean) • [Arabic](https://opendatalab.com/OpenDataLab/WanJuan-Arabic) • [Vietnamese](https://opendatalab.com/OpenDataLab/WanJuan-Vietnamese)• [Russian](https://opendatalab.com/OpenDataLab/WanJuan-Russian)• [Thai](https://opendatalab.com/OpenDataLab/WanJuan-Thai)</b>
 
+---
 **🔥🔥🔥OpenDataLab Provide ecology for high-quality datasets for community.** It provides:
 
 # 🌟Extensive open data resources for AI Model
