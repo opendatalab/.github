@@ -18,6 +18,10 @@
 </div>
 
 **English**🌎|[简体中文](https://github.com/opendatalab/opendatalab-datasets/blob/main/introduction%20CN.md)🀄 
+> [!NOTE] 
+><b> 📚 In 2025, we have open-sourced a high-quality multilingual dataset, **WanJuan 3.0 (WanJuan Silu)**  which comprises over 1.2TB of indigenous textual corpora from five countries. Each subset includes seven major categories and 34 subcategories, covering a wide range of local characteristics, such as history, politics, culture, real estate, shopping, weather, dining, encyclopedic knowledge, and professional expertise. Here are the download links for the five subsets, and we welcome everyone to download and use them.
+> 
+> WanJuan3.0 [Korean](https://opendatalab.com/OpenDataLab/WanJuan-Korean) • [Arabic](https://opendatalab.com/OpenDataLab/WanJuan-Arabic) • [Vietnamese](https://opendatalab.com/OpenDataLab/WanJuan-Vietnamese)• [Russian](https://opendatalab.com/OpenDataLab/WanJuan-Russian)• [Thai](https://opendatalab.com/OpenDataLab/WanJuan-Thai)</b>
 
 **🔥🔥🔥OpenDataLab Provide ecology for high-quality datasets for community.** It provides:
 
