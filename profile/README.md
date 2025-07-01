@@ -41,7 +41,7 @@
 ---
 **🔥🔥🔥OpenDataLab Provide ecology for high-quality datasets for community.** It provides:
 
-# 🌟Extensive open data resources for AI Model
+# 🌟[Extensive open data resources for AI Model](https://opendatalab.com/)
 ● High-speed and simple way to access open datasets  
 ● 7700+ Large scale and high-quality open datasets for large model  
 ● 1200+ Open datasets for Computer Vision
@@ -49,13 +49,13 @@
 ● 200+ Open datasets by CVPR  
 ● Categorized datasets for hot topics  
 
-# ✨Open-source data processing toolkits
+# ✨[Open-source data processing toolkits](https://opendatalab.com/OpenSourceTools?tool=extract)
 ● Data acquisition toolkits supporting large datasets  
 ● Data acquisition toolkits supporting kinds of tasks   
 ● Open source intelligent Toolbox for Labeling
 
 
-# 💫Dataset description language
+# 💫[Dataset description language](https://opendatalab.com/?industry=dsdl&sort=all)
 ● Format standardization  
 ● DSDL: Dataset Description Language  
 ● Define a CV dataset by DSDL  
