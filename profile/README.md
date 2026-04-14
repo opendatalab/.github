@@ -27,6 +27,8 @@ The [OpenDataLab](https://opendatalab.org.cn/) team has long been deeply engaged
 - **🔗 SciAlign (Scientific Cross-Modal Alignment Layer)**: We bridge the semantic gap, aligning cross-modal scientific entities into coherent data representations.
 - **🧠 Sci-Evo (Scientific Evolution Layer)**: We infuse the data with the dynamic logic of reasoning required for genuine scientific discovery.
 
+![](https://cdn-uploads.huggingface.co/production/uploads/643e60d96db6ba8c5ee177ad/ugVRh4ckRm4a-fsc5k7n1.png)
+
 ⚙️Centered around this paradigm, we are continuously crystallizing corresponding data products, processing tools, and engineering solutions. **Sciverse represents the systematic extension of OpenDataLab’s data intelligence into the scientific domain**.
 
 🎯 From pioneering general-purpose corpora to forging the substrate for scientific AI, we remain steadfast in our commitment to defining the data paradigms that will power the next generation of intelligence. We are more than tool providers; we are cartographers mapping the ever-expanding frontier of AI data.
